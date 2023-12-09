@@ -6,4 +6,5 @@ install git
 Docker
 
 step-2: clone repo from https://github.com/shahadatshahed/Project_Docker.git to EC2 /opt/
+
 step-3: create a Dockerfile in /opt/
